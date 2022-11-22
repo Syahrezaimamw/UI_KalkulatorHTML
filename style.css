@@ -1,0 +1,9 @@
+.alek{
+    background-color: grey;
+}
+td{
+    border-radius: 10%;
+}
+td:hover{
+    background-color: orange;
+}
